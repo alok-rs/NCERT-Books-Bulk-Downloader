@@ -59,6 +59,6 @@ The downloads will be processed in order of the sources and the bandwidth allott
   
 ### Credit
 
-This Git is recent fork of the repository created by 'mayankbhagya' - https://github.com/mayankbhagya/NCERTBooks
+This Git is a recent fork of the repository created by 'mayankbhagya' - https://github.com/mayankbhagya/NCERTBooks
 
 
