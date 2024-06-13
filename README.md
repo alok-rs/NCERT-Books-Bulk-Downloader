@@ -6,7 +6,7 @@ A bash script to download all NCERT books in bulk.
 
 - Generate direct URLs to NCERT Books.
 - Edit sources of NCERT Books.
-- Bulk download all text books for all classes on official NCERT website.
+- Bulk download all text books for all classes from official NCERT website.
 
 ## Usage
 
