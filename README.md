@@ -37,6 +37,10 @@ The downloads will be processed in order of the sources and the bandwidth allott
 
 ## Frequently Asked Questions
 
+- **How many files / folders will be downloaded?**
+
+  Please be cautious with this script since this will download **23.1 GB** of documents consisting of **569 folders** and **4,816 files**.
+  
 - **Some books are missing**
 
   The sources were updated on June 2024. For regenerating a new source file, you will need to edit the "source.js" pointing to the latest categories of each textbooks for each class listed within this file.
@@ -57,7 +61,7 @@ The downloads will be processed in order of the sources and the bandwidth allott
 
   NCERT has published chapter-wise ".pdf" files for each textbook, there are python scripts and software that exist which can help you combine them for ease of use.
   
-### Credit
+### Credits
 
 This Git is a recent fork of the repository created by 'mayankbhagya' - https://github.com/mayankbhagya/NCERTBooks
 
