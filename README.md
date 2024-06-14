@@ -15,7 +15,7 @@ First, you will need to install Git Bash and then place the 'wget' executable in
 
 - Install Git from Scoop or download from the official site - https://gitforwindows.org/
 - Download the 'wget' executable from here - https://eternallybored.org/misc/wget/ (Make sure you download the 'EXE' file for your platform (eg: x64).
-- Copy the downloaded wget executable (wget.exe) to "C:\Users\ [username] >\scoop\apps\git\current\mingw64\bin" if Git was downloaded through Scoop or "C:\Program Files\Git\mingw64\bin" in case you downloaded from the official site.
+- Copy the downloaded wget executable (wget.exe) to "C:\Users\ [username] \scoop\apps\git\current\mingw64\bin" if Git was downloaded through Scoop or "C:\Program Files\Git\mingw64\bin" in case you downloaded from the official site.
 - Download and Extract this repository from here (i.e., green color "< > Code" button above and then "Download ZIP".
 - Run the newly installed software "Git Bash" and go to the folder where your new downloaded and extracted file "downloadBooks.sh" is placed.
 - Run the following command:
