@@ -39,7 +39,7 @@ The downloads will be processed in order of the sources and the bandwidth allott
 
 - **How many files / folders will be downloaded?**
 
-  Please be cautious with this script since this will download **23.1 GB** of documents consisting of **569 folders** and **4,816 files**.
+  Please be cautious with this script since this will download **23.1 GB** of data consisting of **569 folders** and **4,816 files**.
   
 - **Some books are missing**
 
